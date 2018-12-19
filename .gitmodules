@@ -1,12 +1,12 @@
 [submodule "app-skeleton-proxy"]
 	path = app-skeleton-proxy
-	url = git@github.com:CarlosEspinoTimon/app-skeleton-proxy.git
+	url = https://github.com/CarlosEspinoTimon/app-skeleton-proxy.git
 [submodule "app-skeleton-server"]
 	path = app-skeleton-server
-	url = git@github.com:CarlosEspinoTimon/app-skeleton-server.git
+	url = https://github.com/CarlosEspinoTimon/app-skeleton-server.git
 [submodule "app-skeleton-client"]
 	path = app-skeleton-client
-	url = git@github.com:CarlosEspinoTimon/app-skeleton-client.git
+	url = https://github.com/CarlosEspinoTimon/app-skeleton-client.git
 [submodule "app-skeleton-protos"]
 	path = app-skeleton-protos
-	url = git@github.com:CarlosEspinoTimon/app-skeleton-protos.git
+	url = https://github.com/CarlosEspinoTimon/app-skeleton-protos.git
